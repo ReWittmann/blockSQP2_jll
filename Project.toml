@@ -1,6 +1,6 @@
 name = "blockSQP2_jll"
 uuid = "8a1cb406-4d92-5272-b91c-0b6599bad0b1"
-version = "0.0.1+0"
+version = "0.0.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,6 +13,6 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 JLLWrappers = "1.7.0"
 julia = "1.11"
 OpenBLAS_jll = "0.3.23"
-qpOASES_jll = "3.2.1"
+qpOASES_jll = "3.2.2"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
