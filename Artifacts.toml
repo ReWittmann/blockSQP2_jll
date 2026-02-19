@@ -1,19 +1,19 @@
 [[blockSQP2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ac6f5ad900a2b1386a55c0ece9902c7b06f95a2e"
+git-tree-sha1 = "6e6a3cf79540d14082b74e0991db342766f1a58f"
 libc = "glibc"
 os = "linux"
 
     [[blockSQP2.download]]
-    sha256 = "1898df735bb8bda1e404fba47f859b40eed0e4601aafc17d3488d4769e0a2d07"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.0.9+0/blockSQP2.v0.0.9.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "6d7bb391491830d963692a34e7195fc92b490655c73519fc0f0c81dcb739b69a"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.0.10+0/blockSQP2.v0.0.10.x86_64-linux-gnu-cxx11.tar.gz"
 [[blockSQP2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a23fd9f6179b42331186dbbde0656897bf880f1"
+git-tree-sha1 = "5e8d8638ae9b7a30c82d900a19d013c15304d21d"
 os = "windows"
 
     [[blockSQP2.download]]
-    sha256 = "f80537cb214dc074a90945a15adf806d1884f8bdc6e00f7f6a208d15638be7fb"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.0.9+0/blockSQP2.v0.0.9.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "b821c76d803d2f719e609dfef901e57aff591a2e60f2525e308df4d57553e1db"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.0.10+0/blockSQP2.v0.0.10.x86_64-w64-mingw32-cxx11.tar.gz"
