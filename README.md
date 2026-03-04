@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `blockSQP2_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/ReWittmann/blockSQP2.git (revision: `348a764f4b1a22656bfa0bda0a92d8347761287d`)
+* git repository: https://github.com/ReWittmann/blockSQP2.git (revision: `70cdd7dca3b6e48c80022f071e4df39b68c247cf`)
 
 ## Platforms
 
