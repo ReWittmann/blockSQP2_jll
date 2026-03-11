@@ -1,13 +1,5 @@
 [[blockSQP2]]
 arch = "aarch64"
-git-tree-sha1 = "687044e608df206bdaf89c6fce4a6803f1b4697e"
-os = "macos"
-
-    [[blockSQP2.download]]
-    sha256 = "6239184ac0e9419feca2e1299eec6a8e69b48f803e1fa279cab1cab37197615a"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.1+0/blockSQP2.v0.1.1.aarch64-apple-darwin.tar.gz"
-[[blockSQP2]]
-arch = "aarch64"
 cxxstring_abi = "cxx11"
 git-tree-sha1 = "bd9313c4b7ab84ec0e08d041a15dfa99522bd380"
 libc = "glibc"
@@ -50,14 +42,6 @@ os = "linux"
     url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.1+0/blockSQP2.v0.1.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[blockSQP2]]
 arch = "x86_64"
-git-tree-sha1 = "e2ff7ba9de084b2ebecc56640549954b138d2c0d"
-os = "macos"
-
-    [[blockSQP2.download]]
-    sha256 = "cdede0b11584a4a16166494ed5b5ddd15826c9dd7adbe6d28db4b168214cc8be"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.1+0/blockSQP2.v0.1.1.x86_64-apple-darwin.tar.gz"
-[[blockSQP2]]
-arch = "x86_64"
 cxxstring_abi = "cxx11"
 git-tree-sha1 = "34600e78849f7d3ad5b46ee206e9ad6e44f7cb2c"
 libc = "glibc"
@@ -75,3 +59,19 @@ os = "windows"
     [[blockSQP2.download]]
     sha256 = "f0e6956b09fd99b2e1561300e744556c38a063328b46213db2ebee8aef2271f3"
     url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.1+0/blockSQP2.v0.1.1.x86_64-w64-mingw32-cxx11.tar.gz"
+[[blockSQP2]]
+arch = "aarch64"
+git-tree-sha1 = "3ece559b22dbea2a353acb63ca5706d7e20882ed"
+os = "macos"
+
+    [[blockSQP2.download]]
+    sha256 = "23c390b8e219989e512e7131ad3559c95eb3f6a348b3d7bf663f03cb343600a9"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.1234+0/blockSQP2.v0.1.1234.aarch64-apple-darwin.tar.gz"
+[[blockSQP2]]
+arch = "x86_64"
+git-tree-sha1 = "05234c57cef213d7daee713966b3bad56f434946"
+os = "macos"
+
+    [[blockSQP2.download]]
+    sha256 = "89a174f8f3ef761de575fd7b89092ff2699905c949f8392e37e165797f918d53"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.1234+0/blockSQP2.v0.1.1234.x86_64-apple-darwin.tar.gz"
