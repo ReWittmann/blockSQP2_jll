@@ -66,7 +66,7 @@ os = "macos"
 
     [[blockSQP2.download]]
     sha256 = "23c390b8e219989e512e7131ad3559c95eb3f6a348b3d7bf663f03cb343600a9"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.1234+0/blockSQP2.v0.1.1234.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.123456+0/blockSQP2.v0.1.123456.aarch64-apple-darwin.tar.gz"
 [[blockSQP2]]
 arch = "x86_64"
 git-tree-sha1 = "05234c57cef213d7daee713966b3bad56f434946"
@@ -74,4 +74,4 @@ os = "macos"
 
     [[blockSQP2.download]]
     sha256 = "89a174f8f3ef761de575fd7b89092ff2699905c949f8392e37e165797f918d53"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.1234+0/blockSQP2.v0.1.1234.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.123456+0/blockSQP2.v0.1.123456.x86_64-apple-darwin.tar.gz"
