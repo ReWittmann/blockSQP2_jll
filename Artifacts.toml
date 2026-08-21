@@ -1,77 +1,77 @@
 [[blockSQP2]]
 arch = "aarch64"
-git-tree-sha1 = "121e837bf553a8620df39aca71fa19762b725017"
+git-tree-sha1 = "457c218c5c08e891c8382b654816669d7308055f"
 os = "macos"
 
     [[blockSQP2.download]]
-    sha256 = "1cb464cb54e8a3b861a2099fa6d995733d1533d2260597fea1104ae0710527d0"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.26+0/blockSQP2.v0.1.26.aarch64-apple-darwin.tar.gz"
+    sha256 = "a572d0fbe5a951cedf44d773dc587b60a3f81fb0d2385231b0c1ae07a44d83fc"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.27+0/blockSQP2.v0.1.27.aarch64-apple-darwin.tar.gz"
 [[blockSQP2]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "52b85e800849495f1fe99f46f0ec2bb1bba2c228"
+git-tree-sha1 = "1cf43ffc6e0a66981ed306828afdf79d389cb9eb"
 libc = "glibc"
 os = "linux"
 
     [[blockSQP2.download]]
-    sha256 = "ae891b7272033fe6b97c3f51dcf6896ba7b6dabd578669d12a2606aa8ca79708"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.26+0/blockSQP2.v0.1.26.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "25239922c04a61a5ef275987fd4f52d76ccc0551fc6e48a58d0a9071f91f6c12"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.27+0/blockSQP2.v0.1.27.aarch64-linux-gnu-cxx11.tar.gz"
 [[blockSQP2]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7199df1238168024099640e5072212d3b52261e6"
+git-tree-sha1 = "a6b606ba71cc3b8828059f6bd8343eddaa533e32"
 libc = "glibc"
 os = "linux"
 
     [[blockSQP2.download]]
-    sha256 = "4258c0180dbfe4c7df42af8f089bbdae2b080777fa2570f5728298243c127356"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.26+0/blockSQP2.v0.1.26.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "7b418cd36a7abe0e6b7c92e70e3788867253f203746cce2e9ea097d117a71d11"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.27+0/blockSQP2.v0.1.27.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[blockSQP2]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "92d15c998592252821c326b65c27001b419a91ff"
+git-tree-sha1 = "fca7c41b849100e12ebba681372883d63c461150"
 libc = "glibc"
 os = "linux"
 
     [[blockSQP2.download]]
-    sha256 = "1b157e044e6f81893279959979876dbea9785d8143d13ecbf11cf0a7fef8abad"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.26+0/blockSQP2.v0.1.26.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "e5b02362ea8a0845eccbba3fe85100454c452373bc4b20eec9790786ede3cac3"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.27+0/blockSQP2.v0.1.27.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[blockSQP2]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a2f599d636295ea670bea5fd620beadddba0f971"
+git-tree-sha1 = "3836df2e27589f1ee48f2dd056a0676929cf69f9"
 libc = "glibc"
 os = "linux"
 
     [[blockSQP2.download]]
-    sha256 = "e350ffaa2c37c6789979be16cd6f1079c97548e626ecc15bea4a775aa948730b"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.26+0/blockSQP2.v0.1.26.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "0a28c80745efd5d6622264c22fde51f32d5e259edfbc69888a74c55da8bc3dec"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.27+0/blockSQP2.v0.1.27.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[blockSQP2]]
 arch = "x86_64"
-git-tree-sha1 = "0b063a4af18fbf464c041592c099ff25dc9410f7"
+git-tree-sha1 = "5c461ef5a1896d66ffe843f002bf3fbdd6dd248e"
 os = "macos"
 
     [[blockSQP2.download]]
-    sha256 = "87ad1187ab30eba7b5fafd9c8b9f188690ab23bd3ffb3449b1da1278ae31a89c"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.26+0/blockSQP2.v0.1.26.x86_64-apple-darwin.tar.gz"
+    sha256 = "1b9027a142433a9d6829a2ed16e2a43aec5f2eeb04979ecec7d9c9d258a3ccfa"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.27+0/blockSQP2.v0.1.27.x86_64-apple-darwin.tar.gz"
 [[blockSQP2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1bf054c0bc98a326cd64e6429179ad352c61dd08"
+git-tree-sha1 = "60496dc72ebac29af25ede117dba9eac60bee0e4"
 libc = "glibc"
 os = "linux"
 
     [[blockSQP2.download]]
-    sha256 = "88153c8845000ccac58f7a4b02ae36333d603dab6cb21ba1e9c488fcde9b7250"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.26+0/blockSQP2.v0.1.26.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "cd2f78ffcdabcb22dd71dec329040bb67b17b6c8d8ce1165e4c0bdb65f17c835"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.27+0/blockSQP2.v0.1.27.x86_64-linux-gnu-cxx11.tar.gz"
 [[blockSQP2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dbeee82ac58c9362cf2183e57e9351e5a9919c2f"
+git-tree-sha1 = "9817194e38865bb8e72e1c0693be48cd7f691e5a"
 os = "windows"
 
     [[blockSQP2.download]]
-    sha256 = "602b22bc1d6dfd4687d34a0e25fab07f05c982474476b64a487618a6e2bd03b1"
-    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.26+0/blockSQP2.v0.1.26.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "b143fbddec6b3631b65452ddc649edd79b0bb6fa4c679ca033c31aa73b5f4adf"
+    url = "https://github.com/ReWittmann/blockSQP2_jll/releases/download/blockSQP2-v0.1.27+0/blockSQP2.v0.1.27.x86_64-w64-mingw32-cxx11.tar.gz"
