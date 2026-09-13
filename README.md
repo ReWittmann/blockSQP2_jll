@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `blockSQP2_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/ReWittmann/blockSQP2.git (revision: `b72ad77437f35039f074ca1c4b62afaa4b764c38`)
+* git repository: https://github.com/ReWittmann/blockSQP2.git (revision: `a8f5c752933d10417255e0ebbcb1f45930cc74ca`)
 * file: https://github.com/joseluisq/macosx-sdks/releases/download/26.1/MacOSX26.1.sdk.tar.xz (SHA256 checksum: `beee7212d265a6d2867d0236cc069314b38d5fb3486a6515734e76fa210c784c`)
 
 ## Platforms
